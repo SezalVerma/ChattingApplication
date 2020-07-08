@@ -1,0 +1,44 @@
+h1{
+   color : brown;
+   font-size: large;
+   font-style: bold italic;
+
+}
+
+background{
+    background : lightcoral;
+    color : black;
+}
+
+#clear {
+    color : red;
+    font-size: medium;
+    border: 1px;
+    border-color: grey;
+    
+}
+
+#clear.onhover{
+    color:pink;
+}
+#status{
+    color: orange;
+    font-size: small;
+    font-family: cursive;
+}
+#chat{
+    background-color : burlywood;
+}
+#messages{
+    background-color : lightcyan;
+    font-family:fantasy;
+    color : black;
+}
+#textarea{
+    background-color:lightsteelblue;
+    font-family :sans-serif;
+    color : black;
+    border: solid 1px grey;
+}
+
+
